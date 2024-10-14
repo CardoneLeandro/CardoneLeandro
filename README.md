@@ -18,7 +18,6 @@ Mi objetivo es integrarme en equipos de trabajo donde pueda aportar mis conocimi
 ### 📫 ¡Conectemos!
 Estoy abierto a nuevas oportunidades y colaboraciones. Si te gustaría hablar sobre proyectos, oportunidades laborales o simplemente conectarnos, no dudes en contactarme a través de:
 - Slack: `@cardone.leandro`
-- WhatsApp: `+5491132823014`
 - Yahoo Mail: `cardone.leandro@yahoo.com`
 - LinkedIn: `https://www.linkedin.com/in/leandro-cardone-071187222/`
 
