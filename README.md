@@ -1,16 +1,26 @@
-## Hi there 👋
+Aquí tienes un ejemplo de README que puedes usar para tu repositorio de GitHub, siguiendo la estructura que mencionaste:
 
-<!--
-**CardoneLeandro/CardoneLeandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# ¡Hola! Soy Leandro Emanuel Cardone 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un **Desarrollador Full Stack** con especialización en backend, utilizando tecnologías como **Node.js, NestJS, Express**, y bases de datos **SQL**. Actualmente, me dedico a desarrollar aplicaciones web y busco constantemente aprender y mejorar mis habilidades en el campo del desarrollo.
+
+### 🌟 Mi enfoque actual
+Mi objetivo es integrarme en equipos de trabajo donde pueda aportar mis conocimientos y colaborar en el desarrollo de soluciones innovadoras. Estoy entusiasmado por contribuir a proyectos que tengan un impacto positivo y que me permitan seguir creciendo profesionalmente.
+
+### 🛠️ Tecnologías que manejo
+- **Backend:** Node.js, NestJS, Express
+- **Bases de datos:** PostgreSQL, SQL
+- **Frontend:** JavaScript, React, HTML, CSS, TypeScript, Next.js
+- **Otros:** Auth0, Mercado Pago, Nodemailer, TypeORM, JWT, Bcrypt
+
+### 📫 ¡Conectemos!
+Estoy abierto a nuevas oportunidades y colaboraciones. Si te gustaría hablar sobre proyectos, oportunidades laborales o simplemente conectarnos, no dudes en contactarme a través de:
+- Slack
+- WhatsApp
+- Yahoo Mail
+
+---
+
+Puedes personalizar este texto según lo que desees transmitir. ¿Te gustaría agregar o modificar algo?
