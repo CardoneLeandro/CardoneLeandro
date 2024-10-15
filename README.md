@@ -3,8 +3,8 @@ Aquí tienes un ejemplo de README que puedes usar para tu repositorio de GitHub,
 ---
 
 # ¡Hola! Soy Leandro Emanuel Cardone 👋
-
-Soy un **Desarrollador Full Stack** con especialización en backend, utilizando tecnologías como **Node.js, NestJS, Express**, y bases de datos **SQL**. Actualmente, me dedico a desarrollar aplicaciones web y busco constantemente aprender y mejorar mis habilidades en el campo del desarrollo.
+Tengo 32 años y soy de Buenos Aires, Argentina. 
+soy un **Desarrollador Full Stack** con especialización en backend, utilizando tecnologías como **Node.js, NestJS, Express**, y bases de datos **SQL**. Actualmente, me dedico a desarrollar aplicaciones web y busco constantemente aprender y mejorar mis habilidades en el campo del desarrollo.
 
 ### 🌟 Mi enfoque actual
 Mi objetivo es integrarme en equipos de trabajo donde pueda aportar mis conocimientos y colaborar en el desarrollo de soluciones innovadoras. Estoy entusiasmado por contribuir a proyectos que tengan un impacto positivo y que me permitan seguir creciendo profesionalmente.
